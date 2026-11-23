@@ -1,0 +1,8 @@
+{
+  "name": "Remix TwoTable",
+  "description": "An editorial, science-backed date companion and compatibility blueprint for intentional, marriage-minded connections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
